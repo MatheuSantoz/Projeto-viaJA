@@ -1,0 +1,65 @@
+-------------------------------
+Origem: Aparecida
+Destino: Guaratinguetá
+Saída: 00:30
+Chegada: 01:30
+Quantidade de passagens: 2
+Preço: R$ 30,00
+-------------------------------
+Origem: Bananal
+Destino: Canas
+Saída: 03:00
+Chegada: 06:10
+Quantidade de passagens: 1
+Preço: R$ 47,50
+-------------------------------
+Origem: Aparecida
+Destino: Caçapava
+Saída: 01:00
+Chegada: 01:50
+Quantidade de passagens: 1
+Preço: R$ 12,50
+-------------------------------
+Origem: Ubatuba
+Destino: Aparecida
+Saída: 00:00
+Chegada: 03:00
+Quantidade de passagens: 2
+Preço: R$ 90,00
+-------------------------------
+Origem: Areias
+Destino: Monteiro Lobato
+Saída: 01:30
+Chegada: 04:50
+Quantidade de passagens: 2
+Preço: R$ 100,00
+-------------------------------
+Origem: Bananal
+Destino: Tremembé
+Saída: 00:30
+Chegada: 02:40
+Quantidade de passagens: 3
+Preço: R$ 97,50
+-------------------------------
+Origem: Aparecida
+Destino: Campos do Jordão
+Saída: 23:00
+Chegada: 02:20
+Quantidade de passagens: 2
+Preço: R$ 100,00
+-------------------------------
+Origem: Cunha
+Destino: São Sebastião
+Saída: 12:00
+Chegada: 15:20
+Quantidade de passagens: 3
+Preço: R$ 150,00
+-------------------------------
+Origem: Lorena
+Destino: Guaratinguetá
+Saída: 11:00
+Chegada: 12:20
+Quantidade de passagens: 4
+Preço: R$ 80,00
+-------------------------------
+
